@@ -2,7 +2,9 @@
 
 {
     'name': 'Odoo space mission',
-    'summary': """Odoo space mission> Create a module that wil plan and help Odoo get to the Moon."""',
+   
+    'summary': """Odoo space mission> Create a module that wil plan and help Odoo get to the Moon.""",
+    
     'description': """
         Odoo Inc. is trying to visit the moon, The need your help to create an App to organize the logistics.
         This includes the Spaceship and Space Crew.
