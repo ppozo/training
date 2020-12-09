@@ -13,9 +13,9 @@
     """,
     
     
-    'author': 'Odoo'
+    'author': 'Odoo',
     
-    'category': 'Training'
+    'category': 'Training',
     
     'version': '0.1',
     
